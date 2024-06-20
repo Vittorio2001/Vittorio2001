@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello everyone 👋
 
-<!--
-**Vittorio2001/Vittorio2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vittorio, and I am from Italy. I am currently a Computer Engineering student at @[Unina] (https://www.unina.it/home;jsessionid=713EDAFF2C4FF71107586896FA049017.node_publisher12). I am passionate about technology and innovation, but also I am a video game and bodybuilder enthusiast. My goal is to learn every aspect of programming and ultimately work for a big tech company!
 
-Here are some ideas to get you started:
+## 😎About me
+- 🔍 I am currently learning on privacy solutions and cybersecurity.
+- 🤔 I also looking for 
+- 👨‍💻 I am a Certified Database Engineer (if you don't believe it check [this] (https://www.linkedin.com/in/vittorio-monfrecola-963bb6295/)).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐱‍💻My skills
+Right here, you can see what I learned until now:
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,java,mysql,py,git)](https://skillicons.dev)
+
+## 👨‍🍳What am I cooking...
+- Nothing, actually. 
+
+## 🤩One day I want to...
+- 🎓First of all, I want to graduate.
+- 🗽I want to go to the United States to work there.
+
+And that's all, folks!
