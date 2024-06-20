@@ -10,7 +10,7 @@ My name is Vittorio, and I am from Italy. I am currently a Computer Engineering 
 ## 🐱‍💻My skills
 Right here, you can see what I learned until now:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,java,mysql,py,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,mysql,py,git)](https://skillicons.dev)
 
 ## 👨‍🍳What am I cooking...
 - Nothing, actually. 
