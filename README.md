@@ -17,7 +17,7 @@ Right here, you can see what I learned until now:
 - Nothing, actually. 
 
 ## 🤩One day I want to...
-- 🎓First of all, I want to graduate.
+- 🎓Graduate, of course.
 - 🗽I want to go to the United States to work there.
 
 And that's all, folks!
