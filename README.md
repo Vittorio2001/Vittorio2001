@@ -17,7 +17,7 @@ Right here, you can see what I learned until now:
 - Nothing, actually. 
 
 ## 🤩One day I want to...
-- 🎓Graduate, of course.
-- 🗽I want to go to the United States to work there.
+- 🎓 Graduate, of course.
+- 🗽 I want to go to the United States to work there.
 
-And that's all, folks!
+(https://community.atlassian.com/t5/image/serverpage/image-id/271821iCC03D3A6CB775F1B/image-dimensions/2500?v=v2&px=-1)
