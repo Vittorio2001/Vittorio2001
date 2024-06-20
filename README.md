@@ -7,10 +7,11 @@ My name is Vittorio, and I am from Italy. I am currently a Computer Engineering 
 - 🤔 I also looking for Linux and how to use it.
 - 👨‍💻 I am a Certified Database Engineer (if you don't believe it check [this](https://www.linkedin.com/in/vittorio-monfrecola-963bb6295/)).
 
-## 🐱‍💻My skills
+## 🐱‍💻My skills and tools
 Right here, you can see what I learned until now:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,mysql,py,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,mysql,py,git,vscode,windows)](https://skillicons.dev)
+
 
 ## 👨‍🍳What am I cooking...
 - Nothing, actually. 
