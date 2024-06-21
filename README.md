@@ -12,12 +12,7 @@ Right here, you can see what I learned until now:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,mysql,py,git,vscode,windows)](https://skillicons.dev)
 
-
 ## 👨‍🍳What am I cooking...
 - Nothing, actually. 
-
-## 🤩One day I want to...
-- 🎓 Graduate, of course.
-- 🗽 I want to go to the United States to work there.
 
 And that's all folks!
