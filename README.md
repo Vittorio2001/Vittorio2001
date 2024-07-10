@@ -7,6 +7,3 @@ Right here, you can see what I learned until now:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,mysql,py,git,vscode,windows)](https://skillicons.dev)
 
-## 👨‍🍳What am I cooking...
-- Nothing, actually. 
-
